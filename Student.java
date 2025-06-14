@@ -6,7 +6,9 @@
  * @author Michael Kölling and David Barnes
  * @version 2016.02.29
  * hello
+<<<<<<< HEAD
  * hello
+>>>>>>> 981dbb6d77b66d1364c18b6850b082629b639d79
  */
 public class Student
 {
